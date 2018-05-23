@@ -51,11 +51,11 @@ source 'https://rubygems.org'
  end
 
 gem 'bootstrap-sass'
-gem 'jquery-rails' 
+gem 'jquery-rails'
  # Used for encrypting passwords
 gem 'bcrypt'
 
 gem 'figaro', '1.0'
-gem 'pundit'
-gem 'stripe'
+gem 'pundit'   
+
 gem 'redcarpet'
