@@ -54,7 +54,7 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
  # Used for encrypting passwords
 gem 'bcrypt'
-
+gem 'whenever', :require => false
 gem 'figaro', '1.0'
 gem 'pundit'   
 
